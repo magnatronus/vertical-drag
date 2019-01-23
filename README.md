@@ -8,6 +8,10 @@ The demo uses a stack with 2 widgets, the background one is purple with the text
 
 To drag the container up (or down) the screen just click and hold the green bar while moving your finger(or mouse) up and down.
 
+## Updates
+23 Jan 2019 - The widet has been updated to add the ability to click  the titlebar to allow it to automatically expand and contract as well as the original drag feature
+
+
 ## Getting Started
 
 For help getting started with Flutter, view the online
